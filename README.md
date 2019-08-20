@@ -1,16 +1,17 @@
 # TTS Portfolio
 Links to the repositories of all my completed work and work in progress for Tech Talent Select and Tech Talent South  
 
-## Tech Talent Select (The Hartford)
+## Tech Talent Select
 
 ### Completed Assignments & Labs
 [JavaScript Assignments](https://github.com/jordanmor/tts-js-assignments)  
 A collection of all completed JavaScript related assignments for Tech Talent Select, including exercises on:   
 - JavaScript language libraries - jQuery, Lodash, Moment, mathjs
-- JavaScript component libraries - Bootstrap, DataTable, Chart.js  
-- JavaScript frameworks including: 
-    - React and Vue (smaller labs)  
-    - Angular, with an introduction to TypeScript (larger labs)  
+- JavaScript component libraries - Bootstrap, DataTable, Chart.js
+- TypeScript, a strict syntactical superset of JavaScript. (Angular is built entirely in TypeScript)
+- JavaScript frameworks:   
+  - React and Vue (introductory labs) 
+  - **Angular** (multiple labs)  
 
 [Pie Chart / Masthead](https://github.com/jordanmor/piechart-masthead)   
 A TTS assignment to build a piechart and masthead to spec using only CSS & HTML 
@@ -20,8 +21,6 @@ A TTS assignment to build a piechart and masthead to spec using only CSS & HTML
 An animated GIF library built using Java, Spring Boot, the Spring Web MVC and Thymeleaf 
 
 ### Project Tutorials (In Progress)
-[Tour of Heroes Tutorial]()  
-Build an app to learn the fundamentals of Angular  
 [Twitter Clone](https://github.com/jordanmor/TwitterClone)  
 A Spring Boot version of Twitter    
 
@@ -51,8 +50,6 @@ A collection of all completed labs for Tech Talent Select & Tech Talent South
 An app built to consume the Open Weather Map API  
 [Blog Tutorial](https://github.com/jordanmor/blogTutorial)  
 Create a blog using Spring Boot and Bootstrap  
-[Transit App](https://github.com/jordanmor/TransitApp)  
-A transit app built on Marta and Google APIs   
 [Course Ideas](https://github.com/jordanmor/course-ideas)  
 A simple web app for students' ideas for future coding courses built using Spark  
 [Hangman Java](https://github.com/jordanmor/HangmanJava)  
