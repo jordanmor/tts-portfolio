@@ -4,6 +4,9 @@ Links to the repositories of all my completed work and work in progress for Tech
 ## Tech Talent Select
 
 ### Completed Assignments & Labs
+[Java Labs](https://github.com/jordanmor/tts_java_assignments)  
+A collection of all completed Java related assignments and labs for Tech Talent Select  
+
 [JavaScript Assignments](https://github.com/jordanmor/tts-js-assignments)  
 A collection of all completed JavaScript related assignments for Tech Talent Select, including exercises on:   
 - JavaScript language libraries - jQuery, Lodash, Moment, mathjs
@@ -39,11 +42,11 @@ Worked on a team of three using the Agile methodology, GitHub projects, pull req
 The front end of a website built for a car dealership.  
 Worked on a team of five using the Agile methodology, a wire frame, GitHub projects as well as, pull requests and code reviews before merging.
 
-### Assignments & Labs
+### Completed Assignments & Labs
 [JavaScript Assignments](https://github.com/jordanmor/tts-js-assignments/tech-talent-south)  
 A collection of all completed JavaScript related assignments for Tech Talent South  
-[Java Labs](https://github.com/jordanmor/tts_java_labs)  
-A collection of all completed labs for Tech Talent Select & Tech Talent South   
+[Java Labs](https://github.com/jordanmor/tts_java_)  
+A collection of all completed labs for Tech Talent South   
 
 ### Completed Project Tutorials
 [Open Weather API](https://github.com/jordanmor/open-weather-app)  
