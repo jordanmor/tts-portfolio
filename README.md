@@ -4,8 +4,10 @@ Links to the repositories of all my completed work and work in progress for Tech
 ## Tech Talent Select
 
 ### Completed Assignments & Labs
-[Java Labs](https://github.com/jordanmor/tts_java_assignments)  
-A collection of all completed Java related assignments and labs for Tech Talent Select  
+[Java Assignments](https://github.com/jordanmor/tts_java_assignments)  
+A collection of all completed Java related assignments and labs for Tech Talent Select, including exercises on: 
+- Java Types, Variables, Classes, Interfaces, Lambdas, Streams, Control Flow, Data Types and Methods  
+- More assignment topics to be announced...
 
 [JavaScript Assignments](https://github.com/jordanmor/tts-js-assignments)  
 A collection of all completed JavaScript related assignments for Tech Talent Select, including exercises on:   
