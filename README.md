@@ -45,9 +45,9 @@ The front end of a website built for a car dealership.
 Worked on a team of five using the Agile methodology, a wire frame, GitHub projects as well as, pull requests and code reviews before merging.
 
 ### Completed Assignments & Labs
-[JavaScript Assignments](https://github.com/jordanmor/tts-js-assignments/tech-talent-south)  
+[JavaScript Assignments](https://github.com/jordanmor/tts-js-assignments/tree/master/tech-talent-south)  
 A collection of all completed JavaScript related assignments for Tech Talent South  
-[Java Labs](https://github.com/jordanmor/tts_java_)  
+[Java Labs](https://github.com/jordanmor/tts_java_assignments/tree/master/tech_talent_south)  
 A collection of all completed labs for Tech Talent South   
 
 ### Completed Project Tutorials
