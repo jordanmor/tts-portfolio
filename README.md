@@ -1,15 +1,15 @@
 # TTS Portfolio
 Links to the repositories of all my completed work and work in progress for Tech Talent Select and Tech Talent South  
 
-## Tech Talent Select
+## Tech Talent Select <span style="font-size:1.1rem;">(7/22/19 - 11/11/19)</span>  
 
 ### Completed Assignments & Labs
-[Java Assignments](https://github.com/jordanmor/tts_java_assignments)  
+[Java Assignments](https://github.com/jordanmor/tts_java_assignments) <span style="font-size:.9rem;">(8/25/19 - present)</span>  
 A collection of all completed Java related assignments and labs for Tech Talent Select, including exercises on: 
 - Java Types, Variables, Classes, Interfaces, Lambdas, Streams, Control Flow, Data Types and Methods  
 - More assignment topics to be announced...
 
-[JavaScript Assignments](https://github.com/jordanmor/tts-js-assignments)  
+[JavaScript Assignments](https://github.com/jordanmor/tts-js-assignments) <span style="font-size:.9rem;">(8/5/19 - 8/23/19)</span>    
 A collection of all completed JavaScript related assignments for Tech Talent Select, including exercises on:   
 - JavaScript language libraries - jQuery, Lodash, Moment, mathjs
 - JavaScript component libraries - Bootstrap, DataTable, Chart.js
@@ -18,7 +18,7 @@ A collection of all completed JavaScript related assignments for Tech Talent Sel
   - React and Vue (introductory labs) 
   - **Angular** (multiple labs)  
 
-[Pie Chart / Masthead](https://github.com/jordanmor/piechart-masthead)   
+[Pie Chart / Masthead](https://github.com/jordanmor/piechart-masthead) <span style="font-size:.9rem;">(7/31/19)</span>   
 A TTS assignment to build a piechart and masthead to spec using only CSS & HTML 
 
 ### Java Projects (In Progress)
@@ -30,7 +30,7 @@ An animated GIF library built using Java, Spring Boot, the Spring Web MVC and Th
 A Spring Boot version of Twitter    
 
 ---
-## Tech Talent South
+## Tech Talent South <span style="font-size:1.1rem;">(4/29/19 - 7/19/19)</span>
 
 ### Java Projects
 [Lottery Numbers - A Control Flow Project](https://github.com/jordanmor/lottery-numbers-java)  
