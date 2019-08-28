@@ -3,8 +3,8 @@ Links to the repositories of all my completed work and work in progress for Tech
 
 ## Tech Talent Select <span style="font-size:1.1rem;">(7/22/19 - 11/11/19)</span>  
 
-### Completed Assignments & Labs
-[Java Assignments](https://github.com/jordanmor/tts-java-assignments) <span style="font-size:.9rem;">(8/25/19 - present)</span>  
+### Completed Assignments & Labs ----------------
+[Java Assignments](https://github.com/jordanmor/tts-java-assignments) <span style="font-size:.9rem;">(8/26/19 - present)</span>  
 A collection of all completed Java related assignments and labs for Tech Talent Select, including exercises on: 
 - Java Types, Variables, Classes, Interfaces, Lambdas, Streams, Control Flow, Data Types and Methods  
 - More assignment topics to be announced...
@@ -18,22 +18,17 @@ A collection of all completed JavaScript related assignments for Tech Talent Sel
   - React and Vue (introductory labs) 
   - **Angular** (multiple labs)  
 
-[Pie Chart / Masthead](https://github.com/jordanmor/piechart-masthead) <span style="font-size:.9rem;">(7/31/19)</span>   
+[Pie Chart / Masthead](https://github.com/jordanmor/piechart-masthead) <span style="font-size:.9rem;">(Completed 8/2/19)</span>   
 A TTS assignment to build a piechart and masthead to spec using only CSS & HTML 
 
-### Angular Projects
-[TTS Angular Project](https://github.com/jordanmor/tts-angular-project)  
+### Projects ---------------------------------------
+[TTS Angular Project](https://github.com/jordanmor/tts-angular-project) <span style="font-size:.9rem;">(Completed 8/28/19)</span>  
 A simple Angular app built using routing, services, dependency injection, observables, forms and animation.  
-
-[TTS Portfolio](https://github.com/jordanmor/tts-portfolio) (In Progress)  
-A portfolio, built with Angular, showcasing my Tech Talent Select projects and assignments.  
-
-### Java Projects (In Progress)
-[Coder GIFs](https://github.com/jordanmor/coder-gifs)  
+  
+[Coder GIFs](https://github.com/jordanmor/coder-gifs) (In Progress)  
 An animated GIF library built using Java, Spring Boot, the Spring Web MVC and Thymeleaf 
 
-### Project Tutorials (In Progress)
-[Twitter Clone](https://github.com/jordanmor/TwitterClone)  
+[Twitter Clone](https://github.com/jordanmor/TwitterClone) (In Progress)  
 A Spring Boot version of Twitter    
 
 ---
