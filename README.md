@@ -3,11 +3,12 @@ Links to the repositories of all my completed work and work in progress for Tech
 
 ## Tech Talent Select <span style="font-size:1.1rem;">(7/22/19 - 11/11/19)</span>  
 
+### Completed Projects ----------------------------
+
+[TTS Angular Project](https://github.com/jordanmor/tts-angular-project) <span style="font-size:.9rem;">(Completed 8/28/19)</span>  
+A simple Angular app built using routing, services, dependency injection, observables, forms and animation. 
+
 ### Completed Assignments & Labs ----------------
-[Java Assignments](https://github.com/jordanmor/tts-java-assignments) <span style="font-size:.9rem;">(8/26/19 - present)</span>  
-A collection of all completed Java related assignments and labs for Tech Talent Select, including exercises on: 
-- Java Types, Variables, Classes, Interfaces, Lambdas, Streams, Control Flow, Data Types and Methods  
-- More assignment topics to be announced...
 
 [JavaScript Assignments](https://github.com/jordanmor/tts-js-assignments) <span style="font-size:.9rem;">(8/5/19 - 8/23/19)</span>    
 A collection of all completed JavaScript related assignments for Tech Talent Select, including exercises on:   
@@ -21,14 +22,12 @@ A collection of all completed JavaScript related assignments for Tech Talent Sel
 [Pie Chart / Masthead](https://github.com/jordanmor/piechart-masthead) <span style="font-size:.9rem;">(Completed 8/2/19)</span>   
 A TTS assignment to build a piechart and masthead to spec using only CSS & HTML 
 
-### Projects ---------------------------------------
-[TTS Angular Project](https://github.com/jordanmor/tts-angular-project) <span style="font-size:.9rem;">(Completed 8/28/19)</span>  
-A simple Angular app built using routing, services, dependency injection, observables, forms and animation.  
-  
-[Coder GIFs](https://github.com/jordanmor/coder-gifs) (In Progress)  
+### Projects In Progress ----------------------------
+ 
+[Coder GIFs](https://github.com/jordanmor/coder-gifs)  
 An animated GIF library built using Java, Spring Boot, the Spring Web MVC and Thymeleaf 
 
-[Twitter Clone](https://github.com/jordanmor/TwitterClone) (In Progress)  
+[Twitter Clone](https://github.com/jordanmor/TwitterClone)  
 A Spring Boot version of Twitter    
 
 ---
