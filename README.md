@@ -5,6 +5,14 @@ Links to the repositories of all my completed work and work in progress for Tech
 
 ### Completed Projects ----------------------------
 
+[Vegas Dice Game](https://github.com/jordanmor/vegas-dice-game) <span style="font-size:.9rem;">(Completed 9/6/19)</span>  
+Tech Talent Select Midpoint Project - up for review by The Hartford  
+A full stack app consisting of:
+- A REST API built using Spring Boot that interacts with the front end via http requests and responses
+- Game logic written in Java following OOP concepts
+- An online mySQL database to hold and display the players' high scores (Spring Data JPA utilized for db interaction)
+- An interactive front end built using responsive web design, jQuery, Bootstrap, CSS3 and HTML
+
 [TTS Angular Project](https://github.com/jordanmor/tts-angular-project) <span style="font-size:.9rem;">(Completed 8/28/19)</span>  
 A simple Angular app built using routing, services, dependency injection, observables, forms and animation. 
 
@@ -27,8 +35,8 @@ A TTS assignment to build a piechart and masthead to spec using only CSS & HTML
 [Coder GIFs](https://github.com/jordanmor/coder-gifs)  
 An animated GIF library built using Java, Spring Boot, the Spring Web MVC and Thymeleaf 
 
-[Twitter Clone](https://github.com/jordanmor/TwitterClone)  
-A Spring Boot version of Twitter    
+[Open Weather API](https://github.com/jordanmor/open-weather-app)  
+An app built to consume the Open Weather Map API  
 
 ---
 ## Tech Talent South <span style="font-size:1.1rem;">(4/29/19 - 7/19/19)</span>
@@ -52,8 +60,8 @@ A collection of all completed JavaScript related assignments for Tech Talent Sou
 A collection of all completed labs for Tech Talent South   
 
 ### Completed Project Tutorials
-[Open Weather API](https://github.com/jordanmor/open-weather-app)  
-An app built to consume the Open Weather Map API  
+[Twitter Clone](https://github.com/jordanmor/TwitterClone)  
+A Spring Boot version of Twitter  
 [Blog Tutorial](https://github.com/jordanmor/blogTutorial)  
 Create a blog using Spring Boot and Bootstrap  
 [Course Ideas](https://github.com/jordanmor/course-ideas)  
