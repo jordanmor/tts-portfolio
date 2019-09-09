@@ -5,7 +5,7 @@ Links to the repositories of all my completed work and work in progress for Tech
 
 ### Completed Projects ----------------------------
 
-[Vegas Dice Game](https://github.com/jordanmor/vegas-dice-game) <span style="font-size:.9rem;">(Completed 9/9/19)</span>  
+[Vegas Dice Game](https://github.com/jordanmor/vegas-dice-game) <span style="font-size:.9rem;">(Completed 9/8/19)</span>  
 Tech Talent Select Midpoint Project - up for review by The Hartford  
 A full stack app consisting of:
 - A REST API built using Spring Boot that interacts with the front end via http requests and responses
