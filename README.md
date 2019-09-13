@@ -5,7 +5,7 @@ Links to the repositories of all my completed work and work in progress for Tech
 
 ### Completed Projects ----------------------------
 
-[Vegas Dice Game](https://github.com/jordanmor/vegas-dice-game) <span style="font-size:.9rem;">(Completed 9/9/19)</span>  
+[Vegas Dice Game](https://github.com/jordanmor/vegas-dice-game) <span style="font-size:.9rem;">(Completed 9/8/19)</span>  
 Tech Talent Select Midpoint Project - up for review by The Hartford  
 A full stack app consisting of:
 - A REST API built using Spring Boot that interacts with the front end via http requests and responses
@@ -61,9 +61,7 @@ A collection of all completed labs for Tech Talent South
 
 ### Completed Project Tutorials
 [Twitter Clone](https://github.com/jordanmor/TwitterClone)  
-A Spring Boot version of Twitter  
-[Blog Tutorial](https://github.com/jordanmor/blogTutorial)  
-Create a blog using Spring Boot and Bootstrap  
+A Spring Boot version of Twitter   
 [Course Ideas](https://github.com/jordanmor/course-ideas)  
 A simple web app for students' ideas for future coding courses built using Spark  
 [Hangman Java](https://github.com/jordanmor/HangmanJava)  
