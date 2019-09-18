@@ -5,8 +5,11 @@ Links to the repositories of all my completed work and work in progress for Tech
 
 ### Completed Projects ----------------------------
 
-[Vegas Dice Game](https://github.com/jordanmor/vegas-dice-game) <span style="font-size:.9rem;">(Completed 9/8/19)</span>  
-Tech Talent Select Midpoint Project - up for review by The Hartford  
+[TTS Front End Project](https://github.com/jordanmor/tts-frontend-project) <span style="font-size:.9rem;">(Completed 9/18/19) - up for review by The Hartford </span>  
+A thorough recreation of the The Hartford's About Us page with a functional sidebar and navbar using HTML, CSS, JQuery, Bootstrap and responsive web design.
+
+[Vegas Dice Game](https://github.com/jordanmor/vegas-dice-game) <span style="font-size:.9rem;">(Completed 9/8/19) - up for review by The Hartford</span>  
+Tech Talent Select Midpoint Project  
 A full stack app consisting of:
 - A REST API built using Spring Boot that interacts with the front end via http requests and responses
 - Game logic written in Java following OOP concepts
